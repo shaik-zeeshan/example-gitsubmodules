@@ -1,6 +1,7 @@
 ---
 title: Submodules in Git
 description: Submodules are a way to include other repositories in a Git repository.
+tags: git, submodule
 ---
 
 # How to create submodules in Git

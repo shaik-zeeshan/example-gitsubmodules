@@ -1,0 +1,3 @@
+[submodule "content/submodules"]
+	path = content/submodules
+	url = git@work.github.com:shaik-zeeshan/example-submodules.git
